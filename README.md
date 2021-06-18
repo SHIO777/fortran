@@ -1,12 +1,16 @@
 # fortran
 fortranでいろいろ
 
+# wireframe/osprey/osprey.f90
+
+<img src="https://user-images.githubusercontent.com/61105696/122552529-60de5f00-d071-11eb-9835-9b1aff50b399.png" width="500">
+<!-- ![osprey](https://user-images.githubusercontent.com/61105696/122552529-60de5f00-d071-11eb-9835-9b1aff50b399.png) -->
+
 
 # ex2_2.f90
 display x-y coordinate with dashed lines
 
 ![ex2_2](https://user-images.githubusercontent.com/61105696/118346867-a642d480-b579-11eb-8148-94ee3b4da770.png)
-
 
 
 # ex3.f90
