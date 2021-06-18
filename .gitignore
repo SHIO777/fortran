@@ -2,3 +2,5 @@
 .idea/
 stack/
 wireframe/osprey/XCgraphics4.c
+wireframe/*.dat
+wireframe/*.f90
